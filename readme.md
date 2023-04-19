@@ -14,4 +14,4 @@ Due to my inexperence with unity each step takes longer than expected. I struggl
 
 # Testing
 
-I have conducted a series of manuel test that I have sent my teacher that test the following features: movement, collision, aiming, firing the gun and despawning the bullets.
+I have conducted a series of manual tests thoughout the development process that I have sent my teacher that test the following features: input handling, movement, collision, aiming, firing the gun and despawning the bullets.
