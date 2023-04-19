@@ -21,8 +21,7 @@ public class despawn : MonoBehaviour
         timer = timer - 1;
         if (timer == 0)
         {
-            DestroyImmediate(this.gameObject);
-            Debug.Log("bullet destroyed");
+            DestroyImmediate(this.gameObject); //deletes a bullet and resets the timer
             timer = 120;
         }
     }
